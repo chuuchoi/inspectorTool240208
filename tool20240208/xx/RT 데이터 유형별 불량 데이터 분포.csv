@@ -1,0 +1,10 @@
+file_path_1,information,count
+RTAL,정상,30
+RTAL,기공,20
+RTAL,융합불량,3
+RTAL,슬래그혼입,6
+RTST,정상,186
+RTST,균열,17
+RTST,기공,213
+RTST,융합불량,19
+RTST,슬래그혼입,6
